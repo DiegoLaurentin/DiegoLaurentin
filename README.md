@@ -1,16 +1,31 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/78370795/124339795-d3296600-db7e-11eb-9355-5e7f9fa8fee9.png)
 
-<!--
-**DiegoLaurentin/DiegoLaurentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hey! 👋🏻 I'm Diego Laurentin.</h1>
 
-Here are some ideas to get you started:
+<h2>👨🏻‍💻 Technology, Design & Programming Lover.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>📊 I am currently studying to be Data Sciences.</p>
+
+<p>🕵🏻‍♂️I tried to learn different languages and tools, including:</p>
+
+<ul>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> JS </li>
+  <li> ReactJS </li>
+  <li> Python </li>
+  <li> SQL </li>
+  <li> Figma / Adobe XD </li>
+</ul>
+
+<p>🎨 I like the design in general and I try to incorporate it in some way into everything I do.</p>
+
+![image](https://user-images.githubusercontent.com/78370795/124339796-d3c1fc80-db7e-11eb-9d63-a0618ed103bb.png)
+
+<h3>🖤 Get in touch:</h3>
+<ul>
+  <li>✨ Twitter: https://twitter.com/DiegoLaurentin</li>
+  <li>✨ Instagram: https://instagram.com/diegolaurentin</li>
+</ul>
+
+![image](https://user-images.githubusercontent.com/78370795/124339796-d3c1fc80-db7e-11eb-9d63-a0618ed103bb.png)
