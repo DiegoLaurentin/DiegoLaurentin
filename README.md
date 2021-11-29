@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/78370795/124339795-d3296600-db7e-11eb-9355-5e7f9fa8fee9.png)
 
-<h1>Hey! 👋🏻🏻 I'm Diego Laurentin.</h1>
+<h1>Hey! 👋🏻 I'm Diego Laurentin.</h1>
 
 <h2>👨🏻‍💻 Technology, Design & Programming Lover.</h2>
 
