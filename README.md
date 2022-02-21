@@ -4,7 +4,7 @@
 
 <h2>👨🏻‍💻 Technology, Design & Programming Lover.</h2>
 
-<p>📊 I am currently studying to be Data Sciences & Full Stack Developer</p>
+<p>📊 I am currently studying to be Data Sciences & Backend Developer</p>
 
 <p>🕵🏻‍♂️I tried to learn different languages and tools, including:</p>
 
